@@ -689,7 +689,7 @@
       }
     },
     {
-      "name": "[CSS] Constant Other dark.color RGB Value",
+      "name": "[CSS] Constant Other Color RGB Value",
       "scope": "source.css constant.other.color.rgb-value",
       "settings": {
         "foreground": "#CD96B3"
@@ -1111,7 +1111,7 @@
       }
     },
     {
-      "name": "[Markdown] Markup Quote Punctuation Definition",
+      "name": "[Markdown] Markup Quote",
       "scope": "text.html.markdown markup.quote",
       "settings": {
         "foreground": "#8C8C8C"
